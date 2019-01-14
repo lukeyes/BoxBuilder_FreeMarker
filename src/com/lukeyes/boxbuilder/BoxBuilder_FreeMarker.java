@@ -1,6 +1,6 @@
 package com.lukeyes.boxbuilder;
 
-import java.awt.BorderLayout;
+import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.geom.Point2D;
@@ -40,6 +40,8 @@ public class BoxBuilder_FreeMarker extends JFrame implements ActionListener {
 
     private File m_lastFile = null;
 
+    private Font m_font = null;
+
     BoxBuilder_FreeMarker() {
 
         init();
@@ -47,6 +49,7 @@ public class BoxBuilder_FreeMarker extends JFrame implements ActionListener {
 
     private void init() {
 
+        m_font = new Font(Font.SANS_SERIF,Font.PLAIN,36);
         m_imagePanel = new ImagePanel();
 
         // Add the buttons and the log to this panel.
@@ -56,17 +59,10 @@ public class BoxBuilder_FreeMarker extends JFrame implements ActionListener {
 
         //createNewBox(options);
 
-        m_menuItemSave = new JMenuItem("Save");
-        m_menuItemSave.addActionListener(this);
-
-        m_menuItemNew = new JMenuItem("New");
-        m_menuItemNew.addActionListener(this);
-
-        m_menuItemOpen = new JMenuItem("Open");
-        m_menuItemOpen.addActionListener(this);
-
-        m_menuItemExport = new JMenuItem("Export");
-        m_menuItemExport.addActionListener(this);
+        m_menuItemSave = createMenuItem("Save");
+        m_menuItemNew = createMenuItem("New");
+        m_menuItemOpen = createMenuItem("Open");
+        m_menuItemExport = createMenuItem("Export");
 
         //Build second menu in the menu bar.
         JMenu menu = new JMenu("File");
@@ -74,11 +70,19 @@ public class BoxBuilder_FreeMarker extends JFrame implements ActionListener {
         menu.add(m_menuItemSave);
         menu.add(m_menuItemOpen);
         menu.add(m_menuItemExport);
+        menu.setFont(m_font);
 
         m_menuBar = new JMenuBar();
         m_menuBar.add(menu);
         this.setJMenuBar(m_menuBar);
+    }
 
+    private JMenuItem createMenuItem(String text){
+        JMenuItem menuItem = new JMenuItem(text);
+        menuItem.addActionListener(this);
+        menuItem.setFont(m_font);
+
+        return menuItem;
     }
 
     private void createNewBox(GeneratorOptions options) {
@@ -298,7 +302,9 @@ public class BoxBuilder_FreeMarker extends JFrame implements ActionListener {
     }
 
     private JTextField newTextFieldFromFloat(float num) {
-        return new JTextField(String.valueOf(num));
+        JTextField textField = new JTextField(String.valueOf(num));
+        textField.setFont(m_font);
+        return textField;
     }
 
     private void createNewFile() {
@@ -322,6 +328,7 @@ public class BoxBuilder_FreeMarker extends JFrame implements ActionListener {
 //Create the combo box, select item at index 4.
 //Indices start at 0, so 4 specifies the pig.
         JComboBox boxList = new JComboBox(boxTypes);
+        boxList.setFont(m_font);
 
         int index = BoxType.ordinal(m_options.boxType);
         boxList.setSelectedIndex(index);

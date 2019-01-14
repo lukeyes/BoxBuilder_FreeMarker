@@ -1,83 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d91eae69-2e4b-421f-b7a7-d86d062cb9c3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../Annabelle/double-click-test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Annabelle/double-click-test/src/main/java/com/lukeyes/doubleclicktest/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Annabelle/double-click-test/src/main/java/com/lukeyes/doubleclicktest/DoubleClickTestFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Annabelle/software/annabelle-trainer-secure/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Annabelle/software/annabelle-trainer-secure/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Annabelle/software/annabelle-trainer-secure/src/main/java/com/lukeyes/annabelle/trainersecure/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Annabelle/software/annabelle-trainer-secure/src/main/java/com/lukeyes/annabelle/trainersecure/config/SpeechConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Annabelle/software/annabelle-trainer-secure/src/main/java/com/lukeyes/annabelle/trainersecure/config/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Annabelle/software/annabelle-trainer-secure/src/main/java/com/lukeyes/annabelle/trainersecure/controllers/SpeechController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../BrutalVengeance/Java/CharacterTest/core/assets/animlists/goon2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../BrutalVengeance/Java/CharacterTest/core/assets/animsets/goon2/idle.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../BrutalVengeance/Java/CharacterTest/core/assets/animsets/goon2/kick_1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../BrutalVengeance/Java/CharacterTest/core/assets/characters/goon2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../BrutalVengeance/Java/CharacterTest/core/src/com/lukeyes/charactertest/Animation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../BrutalVengeance/Java/CharacterTest/core/src/com/lukeyes/charactertest/AnimationPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../BrutalVengeance/Java/CharacterTest/core/src/com/lukeyes/charactertest/GameDefines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../BrutalVengeance/Java/CharacterTest/core/src/com/lukeyes/charactertest/GameScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../BrutalVengeance/Java/CharacterTest/core/src/com/lukeyes/charactertest/animset/Anim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../BrutalVengeance/Java/CharacterTest/core/src/com/lukeyes/charactertest/animset/AnimCollision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../BrutalVengeance/Java/CharacterTest/core/src/com/lukeyes/charactertest/animset/AnimData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../BrutalVengeance/Java/CharacterTest/core/src/com/lukeyes/charactertest/animset/AnimSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../BrutalVengeance/Java/CharacterTest/core/src/com/lukeyes/charactertest/character/Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../BrutalVengeance/Java/CharacterTest/core/src/com/lukeyes/charactertest/character/CharacterControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../BrutalVengeance/Java/CharacterTest/core/src/com/lukeyes/charactertest/character/PlayerControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../BrutalVengeance/Java/CharacterTest/core/src/com/lukeyes/charactertest/collision/BoundingBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../BrutalVengeance/Java/CharacterTest/core/src/com/lukeyes/charactertest/collision/Collision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../BrutalVengeance/Java/CharacterTest/core/src/com/lukeyes/charactertest/collision/CollisionFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../BrutalVengeance/Java/CharacterTest/core/src/com/lukeyes/charactertest/collision/CollisionManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../BrutalVengeance/Java/CharacterTest/core/src/com/lukeyes/charactertest/collision/CollisionPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../BrutalVengeance/Java/CharacterTest/core/src/com/lukeyes/charactertest/collision/CollisionResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../BrutalVengeance/Java/CharacterTest/core/src/com/lukeyes/charactertest/collision/CollisionType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../LejosBluetoothBot/BTSimulator2/src/lukeyes2/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Artie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Beebo/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Beebo/BeeboCommTest1Client/BeeboCommTest1Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Beebo/BeeboCommTest1Server/BeeboCommTest1Server.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Beebo/BeeboCommTest1Server/CommSync.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Beebo/BeeboCommTest1Server/IBeeboComm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Beebo/BeeboCommTest2Server/BeeboCommTest2Server.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Beebo/BeeboCommTest2Server/InputModule.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Beebo/BeeboCommTest2Server/KeyboardInput.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Beebo/BeeboCommTest2Server/XBoxInput.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Beebo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BoxBuilder_FreeMarker/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BoxBuilder_FreeMarker/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BoxBuilder_FreeMarker/BoxBuilder_FreeMarker.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BoxBuilder_FreeMarker/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BoxBuilder_FreeMarker/src/com/lukeyes/boxbuilder/BoxBuilder_FreeMarker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BoxBuilder_FreeMarker/src/com/lukeyes/boxbuilder/GeneratorOptions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BoxBuilder_FreeMarker/src/com/lukeyes/boxbuilder/ISection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BoxBuilder_FreeMarker/src/com/lukeyes/boxbuilder/NewFileDialog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BoxBuilder_FreeMarker/src/com/lukeyes/boxbuilder/PieceInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BoxBuilder_FreeMarker/src/com/lukeyes/boxbuilder/Vector4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BoxBuilder_FreeMarker/src/com/lukeyes/boxbuilder/boxtypes/ArduinoBox.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BoxBuilder_FreeMarker/src/com/lukeyes/boxbuilder/boxtypes/ArtieBox.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BoxBuilder_FreeMarker/src/com/lukeyes/boxbuilder/boxtypes/ArtieBox2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BoxBuilder_FreeMarker/src/com/lukeyes/boxbuilder/boxtypes/ArtieBox3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BoxBuilder_FreeMarker/src/com/lukeyes/boxbuilder/boxtypes/Box.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BoxBuilder_FreeMarker/src/com/lukeyes/boxbuilder/boxtypes/BoxType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BoxBuilder_FreeMarker/src/com/lukeyes/boxbuilder/boxtypes/FritaBox.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BoxBuilder_FreeMarker/src/com/lukeyes/boxbuilder/boxtypes/SabertoothBox.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BoxBuilder_FreeMarker/src/com/lukeyes/boxbuilder/frita/SectionFrontAndBack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BoxBuilder_FreeMarker/src/com/lukeyes/boxbuilder/frita/SectionLeftAndRight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BoxBuilder_FreeMarker/src/com/lukeyes/boxbuilder/frita/SectionTopAndBottom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BoxBuilder_FreeMarker/src/com/lukeyes/graphics/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BoxBuilder_FreeMarker/src/com/lukeyes/graphics/IBox.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BoxBuilder_FreeMarker/src/com/lukeyes/graphics/ImagePanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BoxBuilder_FreeMarker/src/com/lukeyes/graphics/ImagePoint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BoxBuilder_FreeMarker/src/com/lukeyes/graphics/Polygon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BoxBuilder_FreeMarker/src/com/lukeyes/graphics/SVGObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BoxBuilder_FreeMarker/src/com/lukeyes/graphics/Section.java" beforeDir="false" />
+    <list default="true" id="eee2abb0-6362-4e98-bf37-410e964305e8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jfree_jfreesvg_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoxBuilder_FreeMarker.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lukeyes/boxbuilder/BoxBuilder_FreeMarker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lukeyes/boxbuilder/BoxBuilder_FreeMarker.java" afterDir="false" />
     </list>
-    <ignored path="BoxBuilder_FreeMarker.iws" />
-    <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,134 +22,29 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="BoxBuilder_FreeMarker" />
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lukeyes/boxbuilder/boxtypes/ElectronicsBox.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/lukeyes/boxbuilder/BoxBuilder_FreeMarker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="216" column="29" selection-start-line="216" selection-start-column="23" selection-end-line="216" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lukeyes/boxbuilder/boxtypes/BoxType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lukeyes/graphics/ImagePanel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="-273">
+              <caret line="51" column="52" selection-start-line="51" selection-start-column="52" selection-end-line="51" selection-end-column="52" />
               <folding>
-                <element signature="docComment;field#serialVersionUID#0;class#ImagePanel#0" />
-                <element signature="method#ImagePanel#3;class#ImagePanel#0" />
-                <element signature="method#paintComponent#0;class#ImagePanel#0" />
-                <element signature="method#getDotsPerInch#0;class#ImagePanel#0" />
-                <element signature="method#calculateDPI#0;class#ImagePanel#0" />
-                <element signature="method#init#0;class#ImagePanel#0" />
+                <element signature="method#generateOptions#0;class#BoxBuilder_FreeMarker#0" />
+                <element signature="method#createAndShowGUI#0;class#BoxBuilder_FreeMarker#0" />
+                <element signature="method#main#0;class#BoxBuilder_FreeMarker#0" />
+                <element signature="method#actionPerformed#0;class#BoxBuilder_FreeMarker#0" />
+                <element signature="method#saveFile#0;class#BoxBuilder_FreeMarker#0" />
+                <element signature="method#exportFile#0;class#BoxBuilder_FreeMarker#0" />
+                <element signature="method#toSVG#0;class#BoxBuilder_FreeMarker#0" />
+                <element signature="method#openFile#0;class#BoxBuilder_FreeMarker#0" />
+                <element signature="method#newTextFieldFromFloat#0;class#BoxBuilder_FreeMarker#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lukeyes/boxbuilder/boxtypes/FritaBox.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="57" column="43" selection-start-line="57" selection-start-column="43" selection-end-line="57" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lukeyes/graphics/SVGObject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="10" selection-start-line="10" selection-end-line="18" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lukeyes/graphics/Polygon.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="9" column="15" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lukeyes/graphics/Section.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lukeyes/graphics/ImagePoint.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Enum" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>main(</find>
-      <find>newText</find>
-      <find>boxType</find>
-      <find>drawSquare</find>
-      <find>cross</find>
-    </findStrings>
-    <dirStrings>
-      <dir>C:\Users\luke\Projects\Artie\Scratchpad\BoxBuilder_FreeMarker</dir>
-    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -220,58 +52,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/lukeyes/boxbuilder/Polygon.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/boxbuilder/IBox.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/boxbuilder/ImagePanel.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/boxbuilder/SVGObject.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/boxbuilder/boxtypes/Circle.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/boxbuilder/Circle.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/boxbuilder/boxtypes/ArtieBox3.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/boxbuilder/frita/SectionTopAndBottom.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/boxbuilder/boxtypes/ArtieBox2.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/boxbuilder/boxtypes/ArtieBox.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/boxbuilder/boxtypes/Box.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/boxbuilder/Section.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/boxbuilder/boxtypes/ArduinoBox.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/boxbuilder/boxtypes/SabertoothBox.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/graphics/Polygon.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/graphics/Vector4.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/graphics/Section.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/graphics/ImagePoint.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/graphics/ImagePanel.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/graphics/Circle.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/boxbuilder/Vector4.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/graphics/IBox.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/boxbuilder/boxtypes/BoxType.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/boxbuilder/GeneratorOptions.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/boxbuilder/frita/SectionFrontAndBack.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/boxbuilder/electronics/SectionFrontAndBack.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/boxbuilder/frita/SectionLeftAndRight.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/boxbuilder/electronics/SectionLeftAndRight.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/boxbuilder/boxtypes/FritaBox.java" />
-        <option value="$PROJECT_DIR$/src/com/lukeyes/boxbuilder/boxtypes/ElectronicsBox.java" />
         <option value="$PROJECT_DIR$/src/com/lukeyes/boxbuilder/BoxBuilder_FreeMarker.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="1539" />
-    <option name="height" value="1040" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1850" />
+    <option name="height" value="2682" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -279,8 +68,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -306,47 +93,16 @@
               <item name="lukeyes" type="462c0819:PsiDirectoryNode" />
               <item name="boxbuilder" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="BoxBuilder_FreeMarker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BoxBuilder_FreeMarker" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lukeyes" type="462c0819:PsiDirectoryNode" />
-              <item name="boxbuilder" type="462c0819:PsiDirectoryNode" />
-              <item name="boxtypes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BoxBuilder_FreeMarker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BoxBuilder_FreeMarker" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lukeyes" type="462c0819:PsiDirectoryNode" />
-              <item name="boxbuilder" type="462c0819:PsiDirectoryNode" />
-              <item name="electronics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BoxBuilder_FreeMarker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BoxBuilder_FreeMarker" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lukeyes" type="462c0819:PsiDirectoryNode" />
-              <item name="graphics" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Annabelle/software/annabelle-control-ui" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.lukeyes.boxbuilder.boxtypes" />
-    </key>
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547477073473" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -361,359 +117,95 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Unnamed" type="Application" factoryName="Application">
+    <configuration name="BoxBuilder_FreeMarker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lukeyes.boxbuilder.BoxBuilder_FreeMarker" />
       <module name="BoxBuilder_FreeMarker" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lukeyes.boxbuilder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="com.lukeyes.boxbuilder.BoxBuilder_FreeMarker" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="TestNG">
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BoxBuilder_FreeMarker" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d91eae69-2e4b-421f-b7a7-d86d062cb9c3" name="Default" comment="" />
-      <created>1448225849576</created>
+      <changelist id="eee2abb0-6362-4e98-bf37-410e964305e8" name="Default Changelist" comment="" />
+      <created>1547264858785</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1448225849576</updated>
-      <workItem from="1537583430770" duration="389000" />
-      <workItem from="1537739787640" duration="1378000" />
+      <updated>1547264858785</updated>
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1767000" />
-  </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22281879" />
-      <window_info id="Palette&#9;" order="1" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3217993" />
+      <window_info id="Structure" order="1" side_tool="true" visible="true" weight="0.1632653" />
       <window_info id="Image Layers" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="Nl-Palette" order="5" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.090287276" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48458445" weight="0.25141242" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.53787047" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19072847" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32896176" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49731544" visible="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5026846" side_tool="true" visible="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Docker" order="11" />
-      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32980132" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Properties" order="5" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="right" id="Designer" order="8" />
-      <window_info anchor="right" id="Structure" order="9" side_tool="true" visible="true" weight="0.20671141" />
-      <window_info anchor="right" id="Database" order="10" />
-      <window_info anchor="right" id="Maven" order="11" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
-    </option>
-    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-      <collection />
-    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/lukeyes/graphics/Circle.java</url>
-          <line>19</line>
+          <url>file://$PROJECT_DIR$/src/com/lukeyes/boxbuilder/BoxBuilder_FreeMarker.java</url>
+          <line>304</line>
           <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/lukeyes/graphics/Circle.java</url>
-          <line>60</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/lukeyes/boxbuilder/boxtypes/ArduinoBox.java</url>
-          <line>36</line>
-          <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/lukeyes/boxbuilder/electronics/SectionFrontAndBack.java</url>
-          <line>25</line>
-          <properties />
-          <option name="timeStamp" value="10" />
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_40/src.zip!/java/awt/Graphics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="592" column="25" selection-start-line="592" selection-start-column="25" selection-end-line="592" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lukeyes/boxbuilder/boxtypes/ArtieBox2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="193" column="18" selection-start-line="193" selection-start-column="18" selection-end-line="193" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lukeyes/boxbuilder/boxtypes/ArtieBox3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="373" column="41" selection-start-line="373" selection-start-column="41" selection-end-line="373" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lukeyes/boxbuilder/boxtypes/SabertoothBox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="51" column="26" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lukeyes/boxbuilder/boxtypes/ArtieBox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lukeyes/boxbuilder/ISection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lukeyes/boxbuilder/PieceInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lukeyes/graphics/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lukeyes/boxbuilder/boxtypes/Box.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lukeyes/graphics/IBox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lukeyes/boxbuilder/Vector4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lukeyes/boxbuilder/NewFileDialog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lukeyes/boxbuilder/boxtypes/ArduinoBox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lukeyes/boxbuilder/frita/SectionFrontAndBack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="62" column="34" selection-start-line="57" selection-start-column="4" selection-end-line="62" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lukeyes/boxbuilder/electronics/SectionFrontAndBack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="12" selection-start-line="12" selection-end-line="32" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lukeyes/boxbuilder/frita/SectionLeftAndRight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="29" selection-start-line="29" selection-end-line="35" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lukeyes/boxbuilder/electronics/SectionLeftAndRight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lukeyes/boxbuilder/GeneratorOptions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lukeyes/boxbuilder/frita/SectionTopAndBottom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1241">
-          <caret line="80" column="8" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_40/src.zip!/javax/swing/JFileChooser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="822" lean-forward="true" selection-start-line="822" selection-end-line="822" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lukeyes/boxbuilder/boxtypes/ElectronicsBox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lukeyes/boxbuilder/boxtypes/BoxType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lukeyes/graphics/ImagePanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="docComment;field#serialVersionUID#0;class#ImagePanel#0" />
-            <element signature="method#ImagePanel#3;class#ImagePanel#0" />
-            <element signature="method#paintComponent#0;class#ImagePanel#0" />
-            <element signature="method#getDotsPerInch#0;class#ImagePanel#0" />
-            <element signature="method#calculateDPI#0;class#ImagePanel#0" />
-            <element signature="method#init#0;class#ImagePanel#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lukeyes/boxbuilder/boxtypes/FritaBox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="57" column="43" selection-start-line="57" selection-start-column="43" selection-end-line="57" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lukeyes/graphics/SVGObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" selection-start-line="10" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lukeyes/graphics/Polygon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lukeyes/graphics/Section.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lukeyes/graphics/ImagePoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lukeyes/boxbuilder/BoxBuilder_FreeMarker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="216" column="29" selection-start-line="216" selection-start-column="23" selection-end-line="216" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        <state relative-caret-position="-273">
+          <caret line="51" column="52" selection-start-line="51" selection-start-column="52" selection-end-line="51" selection-end-column="52" />
+          <folding>
+            <element signature="method#generateOptions#0;class#BoxBuilder_FreeMarker#0" />
+            <element signature="method#createAndShowGUI#0;class#BoxBuilder_FreeMarker#0" />
+            <element signature="method#main#0;class#BoxBuilder_FreeMarker#0" />
+            <element signature="method#actionPerformed#0;class#BoxBuilder_FreeMarker#0" />
+            <element signature="method#saveFile#0;class#BoxBuilder_FreeMarker#0" />
+            <element signature="method#exportFile#0;class#BoxBuilder_FreeMarker#0" />
+            <element signature="method#toSVG#0;class#BoxBuilder_FreeMarker#0" />
+            <element signature="method#openFile#0;class#BoxBuilder_FreeMarker#0" />
+            <element signature="method#newTextFieldFromFloat#0;class#BoxBuilder_FreeMarker#0" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -722,7 +214,6 @@
     <states>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
